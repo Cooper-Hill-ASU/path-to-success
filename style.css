@@ -49,36 +49,36 @@ body{
     background-color:#484FB7;
     padding:1rem;
     margin:0;
-}
+
     h1{
         font-size: 3rem;
         text-align: center;
     }
-    #intro p{
+    p{
         text-align: center;
         color:#ffffff;
     }
 
-
+}
 nav{
     background-color:#E9BB57;
     text-align: center;
     padding: .5rem;
     margin: 0;
-    }
-    nav h2{
+    
+    h2{
         font-size: 1.5rem;
         color:black;
         text-align: center;
         font-style: italic;
     }
-    nav ul{
+    ul{
         margin: 0;
         padding: 0;
         list-style: none;
         color:#484FB7;
     }
-    nav a{
+    a{
         display: block;
         text-decoration: none;
         background-color:#ffffff;
@@ -87,7 +87,7 @@ nav{
         text-align: center;
         text-transform: uppercase;
     }
-
+}
 #solo, #group, #workshop, #online{
     background-color:#484fb7;
     padding:1rem;
